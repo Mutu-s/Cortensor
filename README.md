@@ -40,17 +40,21 @@ WL eklendikten sonra
 
 Başlat 
 
-    /bin/start-cortensor.sh
+    sudo systemctl start cortensor
 
 Durdurma komutu
 
-    /bin/stop-cortensor.sh
-
+    sudo systemctl stop cortensor
+    
 Log Kontrol
 
     tail -f /var/log/cortensord.log
-    ls -alh /var/log/cortensord.log
+    sudo journalctl -fu cortensor
     
 Düğüm Adresini ve Kimliğini Kontrol Edin
 
     /usr/local/bin/cortensord ~/.cortensor/.env tool id
+
+NodeStats
+
+    /usr/local/bin/cortensord ~/.cortensor/.env tool stats
