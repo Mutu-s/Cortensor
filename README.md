@@ -2,8 +2,9 @@
 
  > [Discord](https://discord.gg/cortensor)
 
-ETH mainnette 10$  COR Alıp stake etmeniz gerekiyor 
-
+ETH mainnette 10$  COR Alıp stake etmeniz gerekiyor ve Formu doldurun
+https://forms.gle/JX2zpR8dvkiHvjWu5
+ > [Form](https://forms.gle/JX2zpR8dvkiHvjWu5)
  > [Uniswap](https://app.uniswap.org/swap)
  >  CA: 0x8e0EeF788350f40255D86DFE8D91ec0AD3a4547F
     
