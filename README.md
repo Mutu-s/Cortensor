@@ -34,7 +34,7 @@ Keyimizi kayıt edelim ve ARB Sepolia gönderelim
 
 Daha sonra dc de modu etiketleyerek bu şekilde testnet kanalına  mesaj atalım ![image](https://github.com/user-attachments/assets/5a91cec8-c565-4096-b4cc-0151d63dfade)
 
-WL eklendikten sonra 
+WL eklendikten sonra tekrar üstteki register komutunu çalıştırıp sonra alltaki verify kodunu çalıştırın.
 
     /usr/local/bin/cortensord ~/.cortensor/.env tool verify
 
