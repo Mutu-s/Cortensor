@@ -41,6 +41,7 @@ WL eklendikten sonra
 Başlat 
 
     sudo systemctl start cortensor
+    cd ~/.cortensor && /usr/local/bin/cortensord ~/.cortensor/.env minerv1 1 docker
 
 Durdurma komutu
 
